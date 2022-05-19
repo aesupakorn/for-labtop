@@ -1,0 +1,14 @@
+
+.app-Topic{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7em;
+    width: 100%;
+    flex-basis: 600px;
+    font-family: Georgia, 'Times New Roman', Times, seri;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}

@@ -1,0 +1,9 @@
+.test{
+    position:fixed;
+    width: 400px;
+    height: 400px;
+    left: 20%;
+    top: 20%;
+    background-color: rgba(216, 154, 154, 0.329);
+
+}

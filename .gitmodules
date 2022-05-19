@@ -1,0 +1,5 @@
+[submodule "./react-boostrap"]
+	ignore = untrackedclear
+[submodule "react-boostrap"]
+	path = react-boostrap
+	url = https://github.com/aesupakorn/for-labtop
